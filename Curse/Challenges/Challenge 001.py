@@ -1,0 +1,5 @@
+n = input('Write something: ')
+print(type(n))
+print(n.isnumeric())
+print(n.isalpha())
+print(n.isalnum())
